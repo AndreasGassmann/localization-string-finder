@@ -1,0 +1,6 @@
+{
+  "TEST.STRING": "This is a test string in english",
+  "TEST.STRING_2": "Another test string",
+  "TEST.STRING_NOT_USED_FILE": "This string is not used / ignored in the project",
+  "TEST.STRING_NOT_USED_DIR": "This string is not used / ignored in the project"
+}

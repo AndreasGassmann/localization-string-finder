@@ -1,0 +1,23 @@
+{
+  "name": "translation-string-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreasGassmann/translation-string-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreasGassmann/translation-string-finder/issues"
+  },
+  "homepage": "https://github.com/AndreasGassmann/translation-string-finder#readme",
+  "dependencies": {
+    "ava": "^0.25.0",
+    "recursive-readdir": "^2.2.1"
+  }
+}
