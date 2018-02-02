@@ -10,14 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/AndreasGassmann/translation-string-finder.git"
   },
-  "author": "",
+  "author": "Andreas Gassmann <andreas@andreasgassmann.ch> (https://andreasgassmann.ch/)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AndreasGassmann/translation-string-finder/issues"
   },
   "homepage": "https://github.com/AndreasGassmann/translation-string-finder#readme",
   "dependencies": {
-    "ava": "^0.25.0",
     "recursive-readdir": "^2.2.1"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0"
   }
 }
