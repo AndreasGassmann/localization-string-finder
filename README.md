@@ -11,11 +11,16 @@ Format of the translation file:
 }
 ```
 
+Installation:
+
+```bash
+npm i --save-dev translation-string-finder
+```
 Basic usage:
 
 ```javascript
 
-const checkTranslationStrings = require('./index');
+const checkTranslationStrings = require('translation-string-finder');
 
 let projectPath = __dirname + '/test/test_project/';
 let translationFile = __dirname + '/test/test_project/translations/en.json';
